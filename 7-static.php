@@ -1,7 +1,7 @@
 <?php
     class Manusia {
         public static $nafas = ["Oksigen", "CO2"];
-
+zz
         public
         $nama,
         $umur,
